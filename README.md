@@ -93,7 +93,7 @@ The project consists of two main parts: the transmitter and the receiver.
 
 ## Circuit Diagram
 
-*Insert circuit diagram here*
+https://github.com/SMFaizer/Digital-Techometer-Project/blob/main/Techo%20meter.pdsprj
 
 ## Usage
 
